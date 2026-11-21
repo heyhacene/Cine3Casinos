@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.apk
+.env
+.DS_Store
+Thumbs.db
+frontend/node_modules
+frontend/dist
+frontend/android
+frontend/public/favicon.png
+frontend/public/apple-touch-icon.png
+frontend/public/icon-192.png
+frontend/public/icon-512.png
+frontend/public/icon-maskable-512.png
+*.log
